@@ -235,25 +235,25 @@
     </navPoint>
     <navPoint id="num_38" playOrder="38">
       <navLabel>
-        <text>舊唐書卷三十四・志第十四</text>
+        <text>卷三十四・志第十四</text>
       </navLabel>
       <content src="Text/2061.html"/>
     </navPoint>
     <navPoint id="num_39" playOrder="39">
       <navLabel>
-        <text>舊唐書卷三十五・志第十五</text>
+        <text>卷三十五・志第十五</text>
       </navLabel>
       <content src="Text/2062.html"/>
     </navPoint>
     <navPoint id="num_40" playOrder="40">
       <navLabel>
-        <text>舊唐書卷三十六・志第十六</text>
+        <text>卷三十六・志第十六</text>
       </navLabel>
       <content src="Text/2063.html"/>
     </navPoint>
     <navPoint id="num_41" playOrder="41">
       <navLabel>
-        <text>舊唐書卷三十七・志第十七</text>
+        <text>卷三十七・志第十七</text>
       </navLabel>
       <content src="Text/2064.html"/>
     </navPoint>
