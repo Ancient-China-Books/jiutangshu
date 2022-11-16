@@ -13,1285 +13,1285 @@
   <navMap>
     <navPoint id="num_1" playOrder="1">
       <navLabel>
-        <text>卷一·本紀第一·高祖</text>
+        <text>卷一・本紀第一・高祖</text>
       </navLabel>
       <content src="Text/2024.html"/>
     </navPoint>
     <navPoint id="num_2" playOrder="2">
       <navLabel>
-        <text>卷二·本紀第二·太宗上</text>
+        <text>卷二・本紀第二・太宗上</text>
       </navLabel>
       <content src="Text/2025.html"/>
     </navPoint>
     <navPoint id="num_3" playOrder="3">
       <navLabel>
-        <text>卷三·本紀第三·太宗下</text>
+        <text>卷三・本紀第三・太宗下</text>
       </navLabel>
       <content src="Text/2026.html"/>
     </navPoint>
     <navPoint id="num_4" playOrder="4">
       <navLabel>
-        <text>卷四·本紀第四·高宗上</text>
+        <text>卷四・本紀第四・高宗上</text>
       </navLabel>
       <content src="Text/2027.html"/>
     </navPoint>
     <navPoint id="num_5" playOrder="5">
       <navLabel>
-        <text>卷五·本紀第五·高宗下</text>
+        <text>卷五・本紀第五・高宗下</text>
       </navLabel>
       <content src="Text/2028.html"/>
     </navPoint>
     <navPoint id="num_6" playOrder="6">
       <navLabel>
-        <text>卷六·本紀第六·則天皇后</text>
+        <text>卷六・本紀第六・則天皇后</text>
       </navLabel>
       <content src="Text/2029.html"/>
     </navPoint>
     <navPoint id="num_7" playOrder="7">
       <navLabel>
-        <text>卷七·本紀第七·中宗 睿宗</text>
+        <text>卷七・本紀第七・中宗 睿宗</text>
       </navLabel>
       <content src="Text/2030.html"/>
     </navPoint>
     <navPoint id="num_8" playOrder="8">
       <navLabel>
-        <text>卷八·本紀第八·玄宗上</text>
+        <text>卷八・本紀第八・玄宗上</text>
       </navLabel>
       <content src="Text/2031.html"/>
     </navPoint>
     <navPoint id="num_9" playOrder="9">
       <navLabel>
-        <text>卷九·本紀第九·玄宗下</text>
+        <text>卷九・本紀第九・玄宗下</text>
       </navLabel>
       <content src="Text/2032.html"/>
     </navPoint>
     <navPoint id="num_10" playOrder="10">
       <navLabel>
-        <text>卷十·本紀第十·肅宗</text>
+        <text>卷十・本紀第十・肅宗</text>
       </navLabel>
       <content src="Text/2033.html"/>
     </navPoint>
     <navPoint id="num_11" playOrder="11">
       <navLabel>
-        <text>卷十一·本紀第十一·代宗</text>
+        <text>卷十一・本紀第十一・代宗</text>
       </navLabel>
       <content src="Text/2034.html"/>
     </navPoint>
     <navPoint id="num_12" playOrder="12">
       <navLabel>
-        <text>卷十二·本紀第十二·德宗上</text>
+        <text>卷十二・本紀第十二・德宗上</text>
       </navLabel>
       <content src="Text/2035.html"/>
     </navPoint>
     <navPoint id="num_13" playOrder="13">
       <navLabel>
-        <text>卷十三·本紀第十三·德宗下</text>
+        <text>卷十三・本紀第十三・德宗下</text>
       </navLabel>
       <content src="Text/2036.html"/>
     </navPoint>
     <navPoint id="num_14" playOrder="14">
       <navLabel>
-        <text>卷十四·本紀第十四·順宗 憲宗上</text>
+        <text>卷十四・本紀第十四・順宗 憲宗上</text>
       </navLabel>
       <content src="Text/2037.html"/>
     </navPoint>
     <navPoint id="num_15" playOrder="15">
       <navLabel>
-        <text>卷十五·本紀第十五·憲宗下</text>
+        <text>卷十五・本紀第十五・憲宗下</text>
       </navLabel>
       <content src="Text/2038.html"/>
     </navPoint>
     <navPoint id="num_16" playOrder="16">
       <navLabel>
-        <text>卷十六·本紀第十六·穆宗</text>
+        <text>卷十六・本紀第十六・穆宗</text>
       </navLabel>
       <content src="Text/2039.html"/>
     </navPoint>
     <navPoint id="num_17" playOrder="17">
       <navLabel>
-        <text>卷十七上·本紀第十七上·敬宗 文宗上</text>
+        <text>卷十七上・本紀第十七上・敬宗 文宗上</text>
       </navLabel>
       <content src="Text/2040.html"/>
     </navPoint>
     <navPoint id="num_18" playOrder="18">
       <navLabel>
-        <text>卷十七下·本紀第十七下·文宗下</text>
+        <text>卷十七下・本紀第十七下・文宗下</text>
       </navLabel>
       <content src="Text/2041.html"/>
     </navPoint>
     <navPoint id="num_19" playOrder="19">
       <navLabel>
-        <text>卷十八上·本紀第十八上·武宗</text>
+        <text>卷十八上・本紀第十八上・武宗</text>
       </navLabel>
       <content src="Text/2042.html"/>
     </navPoint>
     <navPoint id="num_20" playOrder="20">
       <navLabel>
-        <text>卷十八下·本紀第十八下·宣宗</text>
+        <text>卷十八下・本紀第十八下・宣宗</text>
       </navLabel>
       <content src="Text/2043.html"/>
     </navPoint>
     <navPoint id="num_21" playOrder="21">
       <navLabel>
-        <text>卷十九上·本紀第十九上·懿宗</text>
+        <text>卷十九上・本紀第十九上・懿宗</text>
       </navLabel>
       <content src="Text/2044.html"/>
     </navPoint>
     <navPoint id="num_22" playOrder="22">
       <navLabel>
-        <text>卷十九下·本紀第十九下·僖宗</text>
+        <text>卷十九下・本紀第十九下・僖宗</text>
       </navLabel>
       <content src="Text/2045.html"/>
     </navPoint>
     <navPoint id="num_23" playOrder="23">
       <navLabel>
-        <text>卷二十上·本紀第二十上·昭宗</text>
+        <text>卷二十上・本紀第二十上・昭宗</text>
       </navLabel>
       <content src="Text/2046.html"/>
     </navPoint>
     <navPoint id="num_24" playOrder="24">
       <navLabel>
-        <text>卷二十下·本紀第二十下·哀帝</text>
+        <text>卷二十下・本紀第二十下・哀帝</text>
       </navLabel>
       <content src="Text/2047.html"/>
     </navPoint>
     <navPoint id="num_25" playOrder="25">
       <navLabel>
-        <text>卷二十一·志第一·禮儀一</text>
+        <text>卷二十一・志第一・禮儀一</text>
       </navLabel>
       <content src="Text/2048.html"/>
     </navPoint>
     <navPoint id="num_26" playOrder="26">
       <navLabel>
-        <text>卷二十二·志第二·禮儀二</text>
+        <text>卷二十二・志第二・禮儀二</text>
       </navLabel>
       <content src="Text/2049.html"/>
     </navPoint>
     <navPoint id="num_27" playOrder="27">
       <navLabel>
-        <text>卷二十三·志第三·禮儀三</text>
+        <text>卷二十三・志第三・禮儀三</text>
       </navLabel>
       <content src="Text/2050.html"/>
     </navPoint>
     <navPoint id="num_28" playOrder="28">
       <navLabel>
-        <text>卷二十四·志第四·禮儀四</text>
+        <text>卷二十四・志第四・禮儀四</text>
       </navLabel>
       <content src="Text/2051.html"/>
     </navPoint>
     <navPoint id="num_29" playOrder="29">
       <navLabel>
-        <text>卷二十五·志第五·禮儀五</text>
+        <text>卷二十五・志第五・禮儀五</text>
       </navLabel>
       <content src="Text/2052.html"/>
     </navPoint>
     <navPoint id="num_30" playOrder="30">
       <navLabel>
-        <text>卷二十六·志第六·禮儀六</text>
+        <text>卷二十六・志第六・禮儀六</text>
       </navLabel>
       <content src="Text/2053.html"/>
     </navPoint>
     <navPoint id="num_31" playOrder="31">
       <navLabel>
-        <text>卷二十七·志第七·禮儀七</text>
+        <text>卷二十七・志第七・禮儀七</text>
       </navLabel>
       <content src="Text/2054.html"/>
     </navPoint>
     <navPoint id="num_32" playOrder="32">
       <navLabel>
-        <text>卷二十八·志第八·音樂一</text>
+        <text>卷二十八・志第八・音樂一</text>
       </navLabel>
       <content src="Text/2055.html"/>
     </navPoint>
     <navPoint id="num_33" playOrder="33">
       <navLabel>
-        <text>卷二十九·志第九·音樂二</text>
+        <text>卷二十九・志第九・音樂二</text>
       </navLabel>
       <content src="Text/2056.html"/>
     </navPoint>
     <navPoint id="num_34" playOrder="34">
       <navLabel>
-        <text>卷三十·志第十·音樂三</text>
+        <text>卷三十・志第十・音樂三</text>
       </navLabel>
       <content src="Text/2057.html"/>
     </navPoint>
     <navPoint id="num_35" playOrder="35">
       <navLabel>
-        <text>卷三十一·志第十一·音樂四</text>
+        <text>卷三十一・志第十一・音樂四</text>
       </navLabel>
       <content src="Text/2058.html"/>
     </navPoint>
     <navPoint id="num_36" playOrder="36">
       <navLabel>
-        <text>卷三十二·志第十二·曆一</text>
+        <text>卷三十二・志第十二・曆一</text>
       </navLabel>
       <content src="Text/2059.html"/>
     </navPoint>
     <navPoint id="num_37" playOrder="37">
       <navLabel>
-        <text>卷三十三·志第十三·曆二</text>
+        <text>卷三十三・志第十三・曆二</text>
       </navLabel>
       <content src="Text/2060.html"/>
     </navPoint>
     <navPoint id="num_38" playOrder="38">
       <navLabel>
-        <text>舊唐書卷三十四·志第十四</text>
+        <text>舊唐書卷三十四・志第十四</text>
       </navLabel>
       <content src="Text/2061.html"/>
     </navPoint>
     <navPoint id="num_39" playOrder="39">
       <navLabel>
-        <text>舊唐書卷三十五·志第十五</text>
+        <text>舊唐書卷三十五・志第十五</text>
       </navLabel>
       <content src="Text/2062.html"/>
     </navPoint>
     <navPoint id="num_40" playOrder="40">
       <navLabel>
-        <text>舊唐書卷三十六·志第十六</text>
+        <text>舊唐書卷三十六・志第十六</text>
       </navLabel>
       <content src="Text/2063.html"/>
     </navPoint>
     <navPoint id="num_41" playOrder="41">
       <navLabel>
-        <text>舊唐書卷三十七·志第十七</text>
+        <text>舊唐書卷三十七・志第十七</text>
       </navLabel>
       <content src="Text/2064.html"/>
     </navPoint>
     <navPoint id="num_42" playOrder="42">
       <navLabel>
-        <text>卷三十八·志第十八·地理一</text>
+        <text>卷三十八・志第十八・地理一</text>
       </navLabel>
       <content src="Text/2065.html"/>
     </navPoint>
     <navPoint id="num_43" playOrder="43">
       <navLabel>
-        <text>卷三十九·志第十九·地理二</text>
+        <text>卷三十九・志第十九・地理二</text>
       </navLabel>
       <content src="Text/3883.html"/>
     </navPoint>
     <navPoint id="num_44" playOrder="44">
       <navLabel>
-        <text>卷四十·志第二十·地理三</text>
+        <text>卷四十・志第二十・地理三</text>
       </navLabel>
       <content src="Text/3884.html"/>
     </navPoint>
     <navPoint id="num_45" playOrder="45">
       <navLabel>
-        <text>卷四十一·志第二十一·地理四</text>
+        <text>卷四十一・志第二十一・地理四</text>
       </navLabel>
       <content src="Text/3885.html"/>
     </navPoint>
     <navPoint id="num_46" playOrder="46">
       <navLabel>
-        <text>卷四十二·志第二十二職官一</text>
+        <text>卷四十二・志第二十二職官一</text>
       </navLabel>
       <content src="Text/3886.html"/>
     </navPoint>
     <navPoint id="num_47" playOrder="47">
       <navLabel>
-        <text>卷四十三·志第二十三職官二</text>
+        <text>卷四十三・志第二十三職官二</text>
       </navLabel>
       <content src="Text/3887.html"/>
     </navPoint>
     <navPoint id="num_48" playOrder="48">
       <navLabel>
-        <text>卷四十四·志第二十四·職官三</text>
+        <text>卷四十四・志第二十四・職官三</text>
       </navLabel>
       <content src="Text/3888.html"/>
     </navPoint>
     <navPoint id="num_49" playOrder="49">
       <navLabel>
-        <text>卷四十五·志第二十五·輿服</text>
+        <text>卷四十五・志第二十五・輿服</text>
       </navLabel>
       <content src="Text/3889.html"/>
     </navPoint>
     <navPoint id="num_50" playOrder="50">
       <navLabel>
-        <text>卷四十六·志第二十六·經籍上</text>
+        <text>卷四十六・志第二十六・經籍上</text>
       </navLabel>
       <content src="Text/3890.html"/>
     </navPoint>
     <navPoint id="num_51" playOrder="51">
       <navLabel>
-        <text>卷四十七·志第二十七·經籍下</text>
+        <text>卷四十七・志第二十七・經籍下</text>
       </navLabel>
       <content src="Text/3891.html"/>
     </navPoint>
     <navPoint id="num_52" playOrder="52">
       <navLabel>
-        <text>卷四十八·志第二十八·食貨上</text>
+        <text>卷四十八・志第二十八・食貨上</text>
       </navLabel>
       <content src="Text/3892.html"/>
     </navPoint>
     <navPoint id="num_53" playOrder="53">
       <navLabel>
-        <text>卷四十九·志第二十九·食貨下</text>
+        <text>卷四十九・志第二十九・食貨下</text>
       </navLabel>
       <content src="Text/3893.html"/>
     </navPoint>
     <navPoint id="num_54" playOrder="54">
       <navLabel>
-        <text>卷五十·志第三十·刑法</text>
+        <text>卷五十・志第三十・刑法</text>
       </navLabel>
       <content src="Text/3894.html"/>
     </navPoint>
     <navPoint id="num_55" playOrder="55">
       <navLabel>
-        <text>卷五十一·列傳第一·后妃上</text>
+        <text>卷五十一・列傳第一・后妃上</text>
       </navLabel>
       <content src="Text/3895.html"/>
     </navPoint>
     <navPoint id="num_56" playOrder="56">
       <navLabel>
-        <text>五十二·列傳第二·后妃下</text>
+        <text>五十二・列傳第二・后妃下</text>
       </navLabel>
       <content src="Text/3950.html"/>
     </navPoint>
     <navPoint id="num_57" playOrder="57">
       <navLabel>
-        <text>卷五十三·列傳第三</text>
+        <text>卷五十三・列傳第三</text>
       </navLabel>
       <content src="Text/3951.html"/>
     </navPoint>
     <navPoint id="num_58" playOrder="58">
       <navLabel>
-        <text>卷五十四·列傳第四</text>
+        <text>卷五十四・列傳第四</text>
       </navLabel>
       <content src="Text/3952.html"/>
     </navPoint>
     <navPoint id="num_59" playOrder="59">
       <navLabel>
-        <text>卷五十五·列傳第五</text>
+        <text>卷五十五・列傳第五</text>
       </navLabel>
       <content src="Text/3953.html"/>
     </navPoint>
     <navPoint id="num_60" playOrder="60">
       <navLabel>
-        <text>卷五十六·列傳第六</text>
+        <text>卷五十六・列傳第六</text>
       </navLabel>
       <content src="Text/3954.html"/>
     </navPoint>
     <navPoint id="num_61" playOrder="61">
       <navLabel>
-        <text>卷五十七·列傳第七</text>
+        <text>卷五十七・列傳第七</text>
       </navLabel>
       <content src="Text/3955.html"/>
     </navPoint>
     <navPoint id="num_62" playOrder="62">
       <navLabel>
-        <text>卷五十八·列傳第八</text>
+        <text>卷五十八・列傳第八</text>
       </navLabel>
       <content src="Text/3956.html"/>
     </navPoint>
     <navPoint id="num_63" playOrder="63">
       <navLabel>
-        <text>五十九·列傳第九</text>
+        <text>五十九・列傳第九</text>
       </navLabel>
       <content src="Text/3957.html"/>
     </navPoint>
     <navPoint id="num_64" playOrder="64">
       <navLabel>
-        <text>卷六十·列傳第十·宗室</text>
+        <text>卷六十・列傳第十・宗室</text>
       </navLabel>
       <content src="Text/3958.html"/>
     </navPoint>
     <navPoint id="num_65" playOrder="65">
       <navLabel>
-        <text>卷六十一·列傳第十一</text>
+        <text>卷六十一・列傳第十一</text>
       </navLabel>
       <content src="Text/3959.html"/>
     </navPoint>
     <navPoint id="num_66" playOrder="66">
       <navLabel>
-        <text>卷六十二·列傳第十二</text>
+        <text>卷六十二・列傳第十二</text>
       </navLabel>
       <content src="Text/3960.html"/>
     </navPoint>
     <navPoint id="num_67" playOrder="67">
       <navLabel>
-        <text>卷六十三·列傳第十三</text>
+        <text>卷六十三・列傳第十三</text>
       </navLabel>
       <content src="Text/3961.html"/>
     </navPoint>
     <navPoint id="num_68" playOrder="68">
       <navLabel>
-        <text>卷六十四·列傳第十四</text>
+        <text>卷六十四・列傳第十四</text>
       </navLabel>
       <content src="Text/3962.html"/>
     </navPoint>
     <navPoint id="num_69" playOrder="69">
       <navLabel>
-        <text>卷六十五·列傳第十五</text>
+        <text>卷六十五・列傳第十五</text>
       </navLabel>
       <content src="Text/3963.html"/>
     </navPoint>
     <navPoint id="num_70" playOrder="70">
       <navLabel>
-        <text>卷六十六·列傳第十六</text>
+        <text>卷六十六・列傳第十六</text>
       </navLabel>
       <content src="Text/3964.html"/>
     </navPoint>
     <navPoint id="num_71" playOrder="71">
       <navLabel>
-        <text>卷六十七·列傳第十七</text>
+        <text>卷六十七・列傳第十七</text>
       </navLabel>
       <content src="Text/3965.html"/>
     </navPoint>
     <navPoint id="num_72" playOrder="72">
       <navLabel>
-        <text>卷六十八·列傳第十八</text>
+        <text>卷六十八・列傳第十八</text>
       </navLabel>
       <content src="Text/3966.html"/>
     </navPoint>
     <navPoint id="num_73" playOrder="73">
       <navLabel>
-        <text>卷六十九·列傳第十九</text>
+        <text>卷六十九・列傳第十九</text>
       </navLabel>
       <content src="Text/3967.html"/>
     </navPoint>
     <navPoint id="num_74" playOrder="74">
       <navLabel>
-        <text>卷七十·列傳第二十</text>
+        <text>卷七十・列傳第二十</text>
       </navLabel>
       <content src="Text/3968.html"/>
     </navPoint>
     <navPoint id="num_75" playOrder="75">
       <navLabel>
-        <text>卷七十一·列傳第二十一</text>
+        <text>卷七十一・列傳第二十一</text>
       </navLabel>
       <content src="Text/3969.html"/>
     </navPoint>
     <navPoint id="num_76" playOrder="76">
       <navLabel>
-        <text>卷七十二·列傳第二十二</text>
+        <text>卷七十二・列傳第二十二</text>
       </navLabel>
       <content src="Text/3970.html"/>
     </navPoint>
     <navPoint id="num_77" playOrder="77">
       <navLabel>
-        <text>卷七十三·列傳第二十三</text>
+        <text>卷七十三・列傳第二十三</text>
       </navLabel>
       <content src="Text/3971.html"/>
     </navPoint>
     <navPoint id="num_78" playOrder="78">
       <navLabel>
-        <text>卷七十四·列傳第二十四</text>
+        <text>卷七十四・列傳第二十四</text>
       </navLabel>
       <content src="Text/3972.html"/>
     </navPoint>
     <navPoint id="num_79" playOrder="79">
       <navLabel>
-        <text>卷七十五·列傳第二十五</text>
+        <text>卷七十五・列傳第二十五</text>
       </navLabel>
       <content src="Text/3973.html"/>
     </navPoint>
     <navPoint id="num_80" playOrder="80">
       <navLabel>
-        <text>卷七十六·列傳第二十六</text>
+        <text>卷七十六・列傳第二十六</text>
       </navLabel>
       <content src="Text/3974.html"/>
     </navPoint>
     <navPoint id="num_81" playOrder="81">
       <navLabel>
-        <text>卷七十七·列傳第二十七</text>
+        <text>卷七十七・列傳第二十七</text>
       </navLabel>
       <content src="Text/3975.html"/>
     </navPoint>
     <navPoint id="num_82" playOrder="82">
       <navLabel>
-        <text>卷七十八·列傳第二十八</text>
+        <text>卷七十八・列傳第二十八</text>
       </navLabel>
       <content src="Text/3976.html"/>
     </navPoint>
     <navPoint id="num_83" playOrder="83">
       <navLabel>
-        <text>卷七十九·列傳第二十九</text>
+        <text>卷七十九・列傳第二十九</text>
       </navLabel>
       <content src="Text/3977.html"/>
     </navPoint>
     <navPoint id="num_84" playOrder="84">
       <navLabel>
-        <text>卷八十·列傳第三十</text>
+        <text>卷八十・列傳第三十</text>
       </navLabel>
       <content src="Text/3978.html"/>
     </navPoint>
     <navPoint id="num_85" playOrder="85">
       <navLabel>
-        <text>卷八十一·列傳第三十一</text>
+        <text>卷八十一・列傳第三十一</text>
       </navLabel>
       <content src="Text/3979.html"/>
     </navPoint>
     <navPoint id="num_86" playOrder="86">
       <navLabel>
-        <text>卷八十二·列傳第三十二</text>
+        <text>卷八十二・列傳第三十二</text>
       </navLabel>
       <content src="Text/3980.html"/>
     </navPoint>
     <navPoint id="num_87" playOrder="87">
       <navLabel>
-        <text>卷八十三·列傳第三十三</text>
+        <text>卷八十三・列傳第三十三</text>
       </navLabel>
       <content src="Text/3981.html"/>
     </navPoint>
     <navPoint id="num_88" playOrder="88">
       <navLabel>
-        <text>卷八十四·列傳第三十四</text>
+        <text>卷八十四・列傳第三十四</text>
       </navLabel>
       <content src="Text/3982.html"/>
     </navPoint>
     <navPoint id="num_89" playOrder="89">
       <navLabel>
-        <text>卷八十五·列傳第三十五</text>
+        <text>卷八十五・列傳第三十五</text>
       </navLabel>
       <content src="Text/3983.html"/>
     </navPoint>
     <navPoint id="num_90" playOrder="90">
       <navLabel>
-        <text>卷八十六·列傳第三十六</text>
+        <text>卷八十六・列傳第三十六</text>
       </navLabel>
       <content src="Text/3984.html"/>
     </navPoint>
     <navPoint id="num_91" playOrder="91">
       <navLabel>
-        <text>卷八十七·列傳第三十七</text>
+        <text>卷八十七・列傳第三十七</text>
       </navLabel>
       <content src="Text/3985.html"/>
     </navPoint>
     <navPoint id="num_92" playOrder="92">
       <navLabel>
-        <text>卷八十八·列傳第三十八</text>
+        <text>卷八十八・列傳第三十八</text>
       </navLabel>
       <content src="Text/3986.html"/>
     </navPoint>
     <navPoint id="num_93" playOrder="93">
       <navLabel>
-        <text>卷八十九·列傳第三十九</text>
+        <text>卷八十九・列傳第三十九</text>
       </navLabel>
       <content src="Text/3987.html"/>
     </navPoint>
     <navPoint id="num_94" playOrder="94">
       <navLabel>
-        <text>卷九十·列傳第四十</text>
+        <text>卷九十・列傳第四十</text>
       </navLabel>
       <content src="Text/3988.html"/>
     </navPoint>
     <navPoint id="num_95" playOrder="95">
       <navLabel>
-        <text>卷九十一·列傳第四十一</text>
+        <text>卷九十一・列傳第四十一</text>
       </navLabel>
       <content src="Text/3989.html"/>
     </navPoint>
     <navPoint id="num_96" playOrder="96">
       <navLabel>
-        <text>卷九十二·列傳第四十二</text>
+        <text>卷九十二・列傳第四十二</text>
       </navLabel>
       <content src="Text/3990.html"/>
     </navPoint>
     <navPoint id="num_97" playOrder="97">
       <navLabel>
-        <text>卷九十三·列傳第四十三</text>
+        <text>卷九十三・列傳第四十三</text>
       </navLabel>
       <content src="Text/3991.html"/>
     </navPoint>
     <navPoint id="num_98" playOrder="98">
       <navLabel>
-        <text>卷九十四·列傳第四十四</text>
+        <text>卷九十四・列傳第四十四</text>
       </navLabel>
       <content src="Text/3992.html"/>
     </navPoint>
     <navPoint id="num_99" playOrder="99">
       <navLabel>
-        <text>卷九十五·列傳第四十五</text>
+        <text>卷九十五・列傳第四十五</text>
       </navLabel>
       <content src="Text/3993.html"/>
     </navPoint>
     <navPoint id="num_100" playOrder="100">
       <navLabel>
-        <text>卷九十六·列傳第四十六</text>
+        <text>卷九十六・列傳第四十六</text>
       </navLabel>
       <content src="Text/3994.html"/>
     </navPoint>
     <navPoint id="num_101" playOrder="101">
       <navLabel>
-        <text>卷九十七·列傳第四十七</text>
+        <text>卷九十七・列傳第四十七</text>
       </navLabel>
       <content src="Text/3995.html"/>
     </navPoint>
     <navPoint id="num_102" playOrder="102">
       <navLabel>
-        <text>卷九十八·列傳第四十八</text>
+        <text>卷九十八・列傳第四十八</text>
       </navLabel>
       <content src="Text/3996.html"/>
     </navPoint>
     <navPoint id="num_103" playOrder="103">
       <navLabel>
-        <text>卷九十九·列傳第四十九</text>
+        <text>卷九十九・列傳第四十九</text>
       </navLabel>
       <content src="Text/3997.html"/>
     </navPoint>
     <navPoint id="num_104" playOrder="104">
       <navLabel>
-        <text>卷一百·列傳第五十</text>
+        <text>卷一百・列傳第五十</text>
       </navLabel>
       <content src="Text/3998.html"/>
     </navPoint>
     <navPoint id="num_105" playOrder="105">
       <navLabel>
-        <text>卷一百一·列傳第五十一</text>
+        <text>卷一百一・列傳第五十一</text>
       </navLabel>
       <content src="Text/3999.html"/>
     </navPoint>
     <navPoint id="num_106" playOrder="106">
       <navLabel>
-        <text>卷一百二·列傳第五十二</text>
+        <text>卷一百二・列傳第五十二</text>
       </navLabel>
       <content src="Text/4000.html"/>
     </navPoint>
     <navPoint id="num_107" playOrder="107">
       <navLabel>
-        <text>卷一百三·列傳第五十三</text>
+        <text>卷一百三・列傳第五十三</text>
       </navLabel>
       <content src="Text/4001.html"/>
     </navPoint>
     <navPoint id="num_108" playOrder="108">
       <navLabel>
-        <text>卷一百四·列傳第五十四</text>
+        <text>卷一百四・列傳第五十四</text>
       </navLabel>
       <content src="Text/4002.html"/>
     </navPoint>
     <navPoint id="num_109" playOrder="109">
       <navLabel>
-        <text>卷一百五·列傳第五十五</text>
+        <text>卷一百五・列傳第五十五</text>
       </navLabel>
       <content src="Text/4003.html"/>
     </navPoint>
     <navPoint id="num_110" playOrder="110">
       <navLabel>
-        <text>卷一百六·列傳第五十六</text>
+        <text>卷一百六・列傳第五十六</text>
       </navLabel>
       <content src="Text/4004.html"/>
     </navPoint>
     <navPoint id="num_111" playOrder="111">
       <navLabel>
-        <text>卷一百七·列傳第五十七</text>
+        <text>卷一百七・列傳第五十七</text>
       </navLabel>
       <content src="Text/4005.html"/>
     </navPoint>
     <navPoint id="num_112" playOrder="112">
       <navLabel>
-        <text>卷一百八·列傳第五十八</text>
+        <text>卷一百八・列傳第五十八</text>
       </navLabel>
       <content src="Text/4006.html"/>
     </navPoint>
     <navPoint id="num_113" playOrder="113">
       <navLabel>
-        <text>卷一百九·列傳第五十九</text>
+        <text>卷一百九・列傳第五十九</text>
       </navLabel>
       <content src="Text/4007.html"/>
     </navPoint>
     <navPoint id="num_114" playOrder="114">
       <navLabel>
-        <text>卷一百一十·列傳第六十</text>
+        <text>卷一百一十・列傳第六十</text>
       </navLabel>
       <content src="Text/4008.html"/>
     </navPoint>
     <navPoint id="num_115" playOrder="115">
       <navLabel>
-        <text>卷一百一十一·列傳第六十一</text>
+        <text>卷一百一十一・列傳第六十一</text>
       </navLabel>
       <content src="Text/4009.html"/>
     </navPoint>
     <navPoint id="num_116" playOrder="116">
       <navLabel>
-        <text>卷一百一十二·列傳第六十二</text>
+        <text>卷一百一十二・列傳第六十二</text>
       </navLabel>
       <content src="Text/4010.html"/>
     </navPoint>
     <navPoint id="num_117" playOrder="117">
       <navLabel>
-        <text>卷一百一十三·列傳第六十三</text>
+        <text>卷一百一十三・列傳第六十三</text>
       </navLabel>
       <content src="Text/4011.html"/>
     </navPoint>
     <navPoint id="num_118" playOrder="118">
       <navLabel>
-        <text>卷一百一十四·列傳第六十四</text>
+        <text>卷一百一十四・列傳第六十四</text>
       </navLabel>
       <content src="Text/4012.html"/>
     </navPoint>
     <navPoint id="num_119" playOrder="119">
       <navLabel>
-        <text>卷一百一十五·列傳第六十五</text>
+        <text>卷一百一十五・列傳第六十五</text>
       </navLabel>
       <content src="Text/4013.html"/>
     </navPoint>
     <navPoint id="num_120" playOrder="120">
       <navLabel>
-        <text>卷一百一十六·列傳第六十六</text>
+        <text>卷一百一十六・列傳第六十六</text>
       </navLabel>
       <content src="Text/4014.html"/>
     </navPoint>
     <navPoint id="num_121" playOrder="121">
       <navLabel>
-        <text>卷一百一十七·列傳第六十七</text>
+        <text>卷一百一十七・列傳第六十七</text>
       </navLabel>
       <content src="Text/4015.html"/>
     </navPoint>
     <navPoint id="num_122" playOrder="122">
       <navLabel>
-        <text>卷一百一十八·列傳第六十八</text>
+        <text>卷一百一十八・列傳第六十八</text>
       </navLabel>
       <content src="Text/4016.html"/>
     </navPoint>
     <navPoint id="num_123" playOrder="123">
       <navLabel>
-        <text>卷一百一十九·列傳第六十九</text>
+        <text>卷一百一十九・列傳第六十九</text>
       </navLabel>
       <content src="Text/4017.html"/>
     </navPoint>
     <navPoint id="num_124" playOrder="124">
       <navLabel>
-        <text>卷一百二十·列傳第七十</text>
+        <text>卷一百二十・列傳第七十</text>
       </navLabel>
       <content src="Text/4018.html"/>
     </navPoint>
     <navPoint id="num_125" playOrder="125">
       <navLabel>
-        <text>卷一百二十一·列傳第七十一</text>
+        <text>卷一百二十一・列傳第七十一</text>
       </navLabel>
       <content src="Text/4019.html"/>
     </navPoint>
     <navPoint id="num_126" playOrder="126">
       <navLabel>
-        <text>卷一百二十二·列傳第七十二</text>
+        <text>卷一百二十二・列傳第七十二</text>
       </navLabel>
       <content src="Text/4020.html"/>
     </navPoint>
     <navPoint id="num_127" playOrder="127">
       <navLabel>
-        <text>卷一百二十三·列傳第七十三</text>
+        <text>卷一百二十三・列傳第七十三</text>
       </navLabel>
       <content src="Text/4021.html"/>
     </navPoint>
     <navPoint id="num_128" playOrder="128">
       <navLabel>
-        <text>卷一百二十四·列傳第七十四</text>
+        <text>卷一百二十四・列傳第七十四</text>
       </navLabel>
       <content src="Text/4022.html"/>
     </navPoint>
     <navPoint id="num_129" playOrder="129">
       <navLabel>
-        <text>卷一百二十五·列傳第七十五</text>
+        <text>卷一百二十五・列傳第七十五</text>
       </navLabel>
       <content src="Text/4023.html"/>
     </navPoint>
     <navPoint id="num_130" playOrder="130">
       <navLabel>
-        <text>卷一百二十六·列傳第七十六</text>
+        <text>卷一百二十六・列傳第七十六</text>
       </navLabel>
       <content src="Text/4024.html"/>
     </navPoint>
     <navPoint id="num_131" playOrder="131">
       <navLabel>
-        <text>卷一百二十七·列傳第七十七</text>
+        <text>卷一百二十七・列傳第七十七</text>
       </navLabel>
       <content src="Text/4025.html"/>
     </navPoint>
     <navPoint id="num_132" playOrder="132">
       <navLabel>
-        <text>卷一百二十八·列傳第七十八</text>
+        <text>卷一百二十八・列傳第七十八</text>
       </navLabel>
       <content src="Text/4026.html"/>
     </navPoint>
     <navPoint id="num_133" playOrder="133">
       <navLabel>
-        <text>卷一百二十九·列傳第七十九</text>
+        <text>卷一百二十九・列傳第七十九</text>
       </navLabel>
       <content src="Text/4027.html"/>
     </navPoint>
     <navPoint id="num_134" playOrder="134">
       <navLabel>
-        <text>卷一百三十·列傳第八十</text>
+        <text>卷一百三十・列傳第八十</text>
       </navLabel>
       <content src="Text/4028.html"/>
     </navPoint>
     <navPoint id="num_135" playOrder="135">
       <navLabel>
-        <text>卷一百三十一·列傳第八十一</text>
+        <text>卷一百三十一・列傳第八十一</text>
       </navLabel>
       <content src="Text/4029.html"/>
     </navPoint>
     <navPoint id="num_136" playOrder="136">
       <navLabel>
-        <text>卷一百三十二·列傳第八十二</text>
+        <text>卷一百三十二・列傳第八十二</text>
       </navLabel>
       <content src="Text/4030.html"/>
     </navPoint>
     <navPoint id="num_137" playOrder="137">
       <navLabel>
-        <text>卷一百三十三·列傳第八十三</text>
+        <text>卷一百三十三・列傳第八十三</text>
       </navLabel>
       <content src="Text/4031.html"/>
     </navPoint>
     <navPoint id="num_138" playOrder="138">
       <navLabel>
-        <text>卷一百三十四·列傳第八十四</text>
+        <text>卷一百三十四・列傳第八十四</text>
       </navLabel>
       <content src="Text/4032.html"/>
     </navPoint>
     <navPoint id="num_139" playOrder="139">
       <navLabel>
-        <text>卷一百三十五·列傳第八十五</text>
+        <text>卷一百三十五・列傳第八十五</text>
       </navLabel>
       <content src="Text/4033.html"/>
     </navPoint>
     <navPoint id="num_140" playOrder="140">
       <navLabel>
-        <text>卷一百三十六·列傳第八十六</text>
+        <text>卷一百三十六・列傳第八十六</text>
       </navLabel>
       <content src="Text/4034.html"/>
     </navPoint>
     <navPoint id="num_141" playOrder="141">
       <navLabel>
-        <text>卷一百三十七·列傳第八十七</text>
+        <text>卷一百三十七・列傳第八十七</text>
       </navLabel>
       <content src="Text/4035.html"/>
     </navPoint>
     <navPoint id="num_142" playOrder="142">
       <navLabel>
-        <text>卷一百三十八·列傳第八十八</text>
+        <text>卷一百三十八・列傳第八十八</text>
       </navLabel>
       <content src="Text/4036.html"/>
     </navPoint>
     <navPoint id="num_143" playOrder="143">
       <navLabel>
-        <text>卷一百三十九·列傳第八十九</text>
+        <text>卷一百三十九・列傳第八十九</text>
       </navLabel>
       <content src="Text/4037.html"/>
     </navPoint>
     <navPoint id="num_144" playOrder="144">
       <navLabel>
-        <text>卷一百四十·列傳第九十</text>
+        <text>卷一百四十・列傳第九十</text>
       </navLabel>
       <content src="Text/4038.html"/>
     </navPoint>
     <navPoint id="num_145" playOrder="145">
       <navLabel>
-        <text>卷一百四十一·列傳第九十一</text>
+        <text>卷一百四十一・列傳第九十一</text>
       </navLabel>
       <content src="Text/4039.html"/>
     </navPoint>
     <navPoint id="num_146" playOrder="146">
       <navLabel>
-        <text>卷一百四十二·列傳第九十二</text>
+        <text>卷一百四十二・列傳第九十二</text>
       </navLabel>
       <content src="Text/4040.html"/>
     </navPoint>
     <navPoint id="num_147" playOrder="147">
       <navLabel>
-        <text>卷一百四十三·列傳第九十三</text>
+        <text>卷一百四十三・列傳第九十三</text>
       </navLabel>
       <content src="Text/4041.html"/>
     </navPoint>
     <navPoint id="num_148" playOrder="148">
       <navLabel>
-        <text>卷一百四十四·列傳第九十四</text>
+        <text>卷一百四十四・列傳第九十四</text>
       </navLabel>
       <content src="Text/4042.html"/>
     </navPoint>
     <navPoint id="num_149" playOrder="149">
       <navLabel>
-        <text>卷一百四十五·列傳第九十五</text>
+        <text>卷一百四十五・列傳第九十五</text>
       </navLabel>
       <content src="Text/4043.html"/>
     </navPoint>
     <navPoint id="num_150" playOrder="150">
       <navLabel>
-        <text>卷一百四十六·列傳第九十六</text>
+        <text>卷一百四十六・列傳第九十六</text>
       </navLabel>
       <content src="Text/4044.html"/>
     </navPoint>
     <navPoint id="num_151" playOrder="151">
       <navLabel>
-        <text>卷一百四十七·列傳第九十七</text>
+        <text>卷一百四十七・列傳第九十七</text>
       </navLabel>
       <content src="Text/4045.html"/>
     </navPoint>
     <navPoint id="num_152" playOrder="152">
       <navLabel>
-        <text>卷一百四十八·列傳第九十八</text>
+        <text>卷一百四十八・列傳第九十八</text>
       </navLabel>
       <content src="Text/4046.html"/>
     </navPoint>
     <navPoint id="num_153" playOrder="153">
       <navLabel>
-        <text>卷一百四十九·列傳第九十九</text>
+        <text>卷一百四十九・列傳第九十九</text>
       </navLabel>
       <content src="Text/4047.html"/>
     </navPoint>
     <navPoint id="num_154" playOrder="154">
       <navLabel>
-        <text>卷一百五十·列傳第一百</text>
+        <text>卷一百五十・列傳第一百</text>
       </navLabel>
       <content src="Text/4048.html"/>
     </navPoint>
     <navPoint id="num_155" playOrder="155">
       <navLabel>
-        <text>卷一百五十一·列傳第一百一</text>
+        <text>卷一百五十一・列傳第一百一</text>
       </navLabel>
       <content src="Text/4049.html"/>
     </navPoint>
     <navPoint id="num_156" playOrder="156">
       <navLabel>
-        <text>卷一百五十二·列傳第一百二</text>
+        <text>卷一百五十二・列傳第一百二</text>
       </navLabel>
       <content src="Text/4050.html"/>
     </navPoint>
     <navPoint id="num_157" playOrder="157">
       <navLabel>
-        <text>卷一百五十三·列傳第一百三</text>
+        <text>卷一百五十三・列傳第一百三</text>
       </navLabel>
       <content src="Text/4051.html"/>
     </navPoint>
     <navPoint id="num_158" playOrder="158">
       <navLabel>
-        <text>卷一百五十四·列傳第一百四</text>
+        <text>卷一百五十四・列傳第一百四</text>
       </navLabel>
       <content src="Text/4052.html"/>
     </navPoint>
     <navPoint id="num_159" playOrder="159">
       <navLabel>
-        <text>卷一百五十五·列傳第一百五</text>
+        <text>卷一百五十五・列傳第一百五</text>
       </navLabel>
       <content src="Text/4053.html"/>
     </navPoint>
     <navPoint id="num_160" playOrder="160">
       <navLabel>
-        <text>卷一百五十六·列傳第一百六</text>
+        <text>卷一百五十六・列傳第一百六</text>
       </navLabel>
       <content src="Text/4054.html"/>
     </navPoint>
     <navPoint id="num_161" playOrder="161">
       <navLabel>
-        <text>卷一百五十七·列傳第一百七</text>
+        <text>卷一百五十七・列傳第一百七</text>
       </navLabel>
       <content src="Text/4055.html"/>
     </navPoint>
     <navPoint id="num_162" playOrder="162">
       <navLabel>
-        <text>卷一百五十八·列傳第一百八</text>
+        <text>卷一百五十八・列傳第一百八</text>
       </navLabel>
       <content src="Text/4056.html"/>
     </navPoint>
     <navPoint id="num_163" playOrder="163">
       <navLabel>
-        <text>卷一百五十九·列傳第一百九</text>
+        <text>卷一百五十九・列傳第一百九</text>
       </navLabel>
       <content src="Text/4057.html"/>
     </navPoint>
     <navPoint id="num_164" playOrder="164">
       <navLabel>
-        <text>卷一百六十·列傳卷第一百一十</text>
+        <text>卷一百六十・列傳卷第一百一十</text>
       </navLabel>
       <content src="Text/4058.html"/>
     </navPoint>
     <navPoint id="num_165" playOrder="165">
       <navLabel>
-        <text>卷一百六十一·列傳第一百一十一</text>
+        <text>卷一百六十一・列傳第一百一十一</text>
       </navLabel>
       <content src="Text/4059.html"/>
     </navPoint>
     <navPoint id="num_166" playOrder="166">
       <navLabel>
-        <text>卷一百六十二·列傳第一百一十二</text>
+        <text>卷一百六十二・列傳第一百一十二</text>
       </navLabel>
       <content src="Text/4060.html"/>
     </navPoint>
     <navPoint id="num_167" playOrder="167">
       <navLabel>
-        <text>卷一百六十三·列傳第一百一十三</text>
+        <text>卷一百六十三・列傳第一百一十三</text>
       </navLabel>
       <content src="Text/4061.html"/>
     </navPoint>
     <navPoint id="num_168" playOrder="168">
       <navLabel>
-        <text>卷一百六十四·列傳第一百一十四</text>
+        <text>卷一百六十四・列傳第一百一十四</text>
       </navLabel>
       <content src="Text/4062.html"/>
     </navPoint>
     <navPoint id="num_169" playOrder="169">
       <navLabel>
-        <text>卷一百六十五·列傳第一百一十五</text>
+        <text>卷一百六十五・列傳第一百一十五</text>
       </navLabel>
       <content src="Text/4063.html"/>
     </navPoint>
     <navPoint id="num_170" playOrder="170">
       <navLabel>
-        <text>卷一百六十六·列傳第一百一十六</text>
+        <text>卷一百六十六・列傳第一百一十六</text>
       </navLabel>
       <content src="Text/4064.html"/>
     </navPoint>
     <navPoint id="num_171" playOrder="171">
       <navLabel>
-        <text>卷一百六十七·列傳第一百一十七</text>
+        <text>卷一百六十七・列傳第一百一十七</text>
       </navLabel>
       <content src="Text/4065.html"/>
     </navPoint>
     <navPoint id="num_172" playOrder="172">
       <navLabel>
-        <text>卷一百六十八·列傳第一百一十八</text>
+        <text>卷一百六十八・列傳第一百一十八</text>
       </navLabel>
       <content src="Text/4066.html"/>
     </navPoint>
     <navPoint id="num_173" playOrder="173">
       <navLabel>
-        <text>卷一百六十九·列傳第一百一十九</text>
+        <text>卷一百六十九・列傳第一百一十九</text>
       </navLabel>
       <content src="Text/4067.html"/>
     </navPoint>
     <navPoint id="num_174" playOrder="174">
       <navLabel>
-        <text>卷一百七十·列傳第一百二十</text>
+        <text>卷一百七十・列傳第一百二十</text>
       </navLabel>
       <content src="Text/4068.html"/>
     </navPoint>
     <navPoint id="num_175" playOrder="175">
       <navLabel>
-        <text>卷一百七十一·列傳第一百二十一</text>
+        <text>卷一百七十一・列傳第一百二十一</text>
       </navLabel>
       <content src="Text/4069.html"/>
     </navPoint>
     <navPoint id="num_176" playOrder="176">
       <navLabel>
-        <text>卷一百七十二·列傳第一百二十二</text>
+        <text>卷一百七十二・列傳第一百二十二</text>
       </navLabel>
       <content src="Text/4070.html"/>
     </navPoint>
     <navPoint id="num_177" playOrder="177">
       <navLabel>
-        <text>卷一百七十三·列傳第一百二十三</text>
+        <text>卷一百七十三・列傳第一百二十三</text>
       </navLabel>
       <content src="Text/4071.html"/>
     </navPoint>
     <navPoint id="num_178" playOrder="178">
       <navLabel>
-        <text>卷一百七十四·列傳第一百二十四</text>
+        <text>卷一百七十四・列傳第一百二十四</text>
       </navLabel>
       <content src="Text/4072.html"/>
     </navPoint>
     <navPoint id="num_179" playOrder="179">
       <navLabel>
-        <text>卷一百七十五·列傳第一百二十五</text>
+        <text>卷一百七十五・列傳第一百二十五</text>
       </navLabel>
       <content src="Text/4073.html"/>
     </navPoint>
     <navPoint id="num_180" playOrder="180">
       <navLabel>
-        <text>卷一百七十六·列傳第一百二十六</text>
+        <text>卷一百七十六・列傳第一百二十六</text>
       </navLabel>
       <content src="Text/4074.html"/>
     </navPoint>
     <navPoint id="num_181" playOrder="181">
       <navLabel>
-        <text>卷一百七十七·列傳第一百二十七</text>
+        <text>卷一百七十七・列傳第一百二十七</text>
       </navLabel>
       <content src="Text/4075.html"/>
     </navPoint>
     <navPoint id="num_182" playOrder="182">
       <navLabel>
-        <text>卷一百七十八·列傳第一百二十八</text>
+        <text>卷一百七十八・列傳第一百二十八</text>
       </navLabel>
       <content src="Text/4076.html"/>
     </navPoint>
     <navPoint id="num_183" playOrder="183">
       <navLabel>
-        <text>卷一百七十九·列傳第一百二十九</text>
+        <text>卷一百七十九・列傳第一百二十九</text>
       </navLabel>
       <content src="Text/4077.html"/>
     </navPoint>
     <navPoint id="num_184" playOrder="184">
       <navLabel>
-        <text>卷一百八十·列傳第一百三十</text>
+        <text>卷一百八十・列傳第一百三十</text>
       </navLabel>
       <content src="Text/4078.html"/>
     </navPoint>
     <navPoint id="num_185" playOrder="185">
       <navLabel>
-        <text>卷一百八十一·列傳第一百三十一</text>
+        <text>卷一百八十一・列傳第一百三十一</text>
       </navLabel>
       <content src="Text/4079.html"/>
     </navPoint>
     <navPoint id="num_186" playOrder="186">
       <navLabel>
-        <text>卷一百八十二·列傳第一百三十二</text>
+        <text>卷一百八十二・列傳第一百三十二</text>
       </navLabel>
       <content src="Text/4080.html"/>
     </navPoint>
     <navPoint id="num_187" playOrder="187">
       <navLabel>
-        <text>卷一百八十三·列傳第一百三十三·外戚</text>
+        <text>卷一百八十三・列傳第一百三十三・外戚</text>
       </navLabel>
       <content src="Text/4081.html"/>
     </navPoint>
     <navPoint id="num_188" playOrder="188">
       <navLabel>
-        <text>卷一百八十四·列傳第一百三十四·宦官</text>
+        <text>卷一百八十四・列傳第一百三十四・宦官</text>
       </navLabel>
       <content src="Text/4082.html"/>
     </navPoint>
     <navPoint id="num_189" playOrder="189">
       <navLabel>
-        <text>卷一百八十五上·列傳第一百三十五上·良吏上</text>
+        <text>卷一百八十五上・列傳第一百三十五上・良吏上</text>
       </navLabel>
       <content src="Text/4083.html"/>
     </navPoint>
     <navPoint id="num_190" playOrder="190">
       <navLabel>
-        <text>卷一百八十五下·列傳第一百三十五下·良吏下</text>
+        <text>卷一百八十五下・列傳第一百三十五下・良吏下</text>
       </navLabel>
       <content src="Text/4084.html"/>
     </navPoint>
     <navPoint id="num_191" playOrder="191">
       <navLabel>
-        <text>卷一百八十六上·列傳第一百三十六上·酷吏上</text>
+        <text>卷一百八十六上・列傳第一百三十六上・酷吏上</text>
       </navLabel>
       <content src="Text/4085.html"/>
     </navPoint>
     <navPoint id="num_192" playOrder="192">
       <navLabel>
-        <text>卷一百八十六下·列傳第一百三十六下·酷吏下</text>
+        <text>卷一百八十六下・列傳第一百三十六下・酷吏下</text>
       </navLabel>
       <content src="Text/4086.html"/>
     </navPoint>
     <navPoint id="num_193" playOrder="193">
       <navLabel>
-        <text>卷一百八十七上·列傳第一百三十七上·忠義上</text>
+        <text>卷一百八十七上・列傳第一百三十七上・忠義上</text>
       </navLabel>
       <content src="Text/4087.html"/>
     </navPoint>
     <navPoint id="num_194" playOrder="194">
       <navLabel>
-        <text>卷一百八十七下·列傳第一百三十七下·忠義下</text>
+        <text>卷一百八十七下・列傳第一百三十七下・忠義下</text>
       </navLabel>
       <content src="Text/4088.html"/>
     </navPoint>
     <navPoint id="num_195" playOrder="195">
       <navLabel>
-        <text>卷一百八十八·列傳第一百三十八·孝友</text>
+        <text>卷一百八十八・列傳第一百三十八・孝友</text>
       </navLabel>
       <content src="Text/4089.html"/>
     </navPoint>
     <navPoint id="num_196" playOrder="196">
       <navLabel>
-        <text>卷一百八十九上·列傳第一百三十九上·儒學上</text>
+        <text>卷一百八十九上・列傳第一百三十九上・儒學上</text>
       </navLabel>
       <content src="Text/4090.html"/>
     </navPoint>
     <navPoint id="num_197" playOrder="197">
       <navLabel>
-        <text>卷一百八十九下·列傳第一百三十九下·儒學下</text>
+        <text>卷一百八十九下・列傳第一百三十九下・儒學下</text>
       </navLabel>
       <content src="Text/4091.html"/>
     </navPoint>
     <navPoint id="num_198" playOrder="198">
       <navLabel>
-        <text>卷一百九十上·列傳第一百四十上·文苑上</text>
+        <text>卷一百九十上・列傳第一百四十上・文苑上</text>
       </navLabel>
       <content src="Text/4092.html"/>
     </navPoint>
     <navPoint id="num_199" playOrder="199">
       <navLabel>
-        <text>卷一百九十中·列傳第一百四十中·文苑中</text>
+        <text>卷一百九十中・列傳第一百四十中・文苑中</text>
       </navLabel>
       <content src="Text/4093.html"/>
     </navPoint>
     <navPoint id="num_200" playOrder="200">
       <navLabel>
-        <text>卷一百九十下·列傳第一百四十下·文苑下</text>
+        <text>卷一百九十下・列傳第一百四十下・文苑下</text>
       </navLabel>
       <content src="Text/4094.html"/>
     </navPoint>
     <navPoint id="num_201" playOrder="201">
       <navLabel>
-        <text>卷一百九十一·列傳第一百四十一·方伎</text>
+        <text>卷一百九十一・列傳第一百四十一・方伎</text>
       </navLabel>
       <content src="Text/4095.html"/>
     </navPoint>
     <navPoint id="num_202" playOrder="202">
       <navLabel>
-        <text>卷一百九十二·列傳第一百四十二·隱逸</text>
+        <text>卷一百九十二・列傳第一百四十二・隱逸</text>
       </navLabel>
       <content src="Text/4096.html"/>
     </navPoint>
     <navPoint id="num_203" playOrder="203">
       <navLabel>
-        <text>卷一百九十三·列傳第一百四十三·列女</text>
+        <text>卷一百九十三・列傳第一百四十三・列女</text>
       </navLabel>
       <content src="Text/4097.html"/>
     </navPoint>
     <navPoint id="num_204" playOrder="204">
       <navLabel>
-        <text>卷一百九十四上·列傳第一百四十四上·突厥上</text>
+        <text>卷一百九十四上・列傳第一百四十四上・突厥上</text>
       </navLabel>
       <content src="Text/4098.html"/>
     </navPoint>
     <navPoint id="num_205" playOrder="205">
       <navLabel>
-        <text>卷一百九十四下·列傳第一百四十四下·突厥下</text>
+        <text>卷一百九十四下・列傳第一百四十四下・突厥下</text>
       </navLabel>
       <content src="Text/4099.html"/>
     </navPoint>
     <navPoint id="num_206" playOrder="206">
       <navLabel>
-        <text>卷一百九十五·列傳第一百四十五·迴紇</text>
+        <text>卷一百九十五・列傳第一百四十五・迴紇</text>
       </navLabel>
       <content src="Text/4100.html"/>
     </navPoint>
     <navPoint id="num_207" playOrder="207">
       <navLabel>
-        <text>卷一百九十六上·列傳第一百四十六上·吐蕃上</text>
+        <text>卷一百九十六上・列傳第一百四十六上・吐蕃上</text>
       </navLabel>
       <content src="Text/4101.html"/>
     </navPoint>
     <navPoint id="num_208" playOrder="208">
       <navLabel>
-        <text>卷一百九十六下·列傳第一百四十六下·吐蕃下</text>
+        <text>卷一百九十六下・列傳第一百四十六下・吐蕃下</text>
       </navLabel>
       <content src="Text/4102.html"/>
     </navPoint>
     <navPoint id="num_209" playOrder="209">
       <navLabel>
-        <text>卷一百九十七·列傳第一百四十七·南蠻 西南蠻</text>
+        <text>卷一百九十七・列傳第一百四十七・南蠻 西南蠻</text>
       </navLabel>
       <content src="Text/4103.html"/>
     </navPoint>
     <navPoint id="num_210" playOrder="210">
       <navLabel>
-        <text>卷一百九十八·列傳第一百四十八·西戎</text>
+        <text>卷一百九十八・列傳第一百四十八・西戎</text>
       </navLabel>
       <content src="Text/4104.html"/>
     </navPoint>
     <navPoint id="num_211" playOrder="211">
       <navLabel>
-        <text>卷一百九十九上·列傳第一百四十九上·東夷</text>
+        <text>卷一百九十九上・列傳第一百四十九上・東夷</text>
       </navLabel>
       <content src="Text/4105.html"/>
     </navPoint>
     <navPoint id="num_212" playOrder="212">
       <navLabel>
-        <text>卷一百九十九下·列傳第一百四十九下·北狄</text>
+        <text>卷一百九十九下・列傳第一百四十九下・北狄</text>
       </navLabel>
       <content src="Text/4106.html"/>
     </navPoint>
     <navPoint id="num_213" playOrder="213">
       <navLabel>
-        <text>卷二百上·列傳第一百五十上</text>
+        <text>卷二百上・列傳第一百五十上</text>
       </navLabel>
       <content src="Text/4107.html"/>
     </navPoint>
     <navPoint id="num_214" playOrder="214">
       <navLabel>
-        <text>卷二百下·列傳第一百五十下</text>
+        <text>卷二百下・列傳第一百五十下</text>
       </navLabel>
       <content src="Text/4108.html"/>
     </navPoint>
